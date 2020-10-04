@@ -25,3 +25,11 @@ public class Question3
 		getLLessThanN(num, digit);
 	}
 }
+
+/* OUTPUT
+
+Enter the number: 
+123
+Enter the digit to be not present: 
+2
+119 */ 
