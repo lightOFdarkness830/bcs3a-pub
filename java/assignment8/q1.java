@@ -36,3 +36,14 @@ public class Q1
         System.out.print(num[count - 1]);
     }
 }
+
+/* OUTPUT
+
+Enter number of elements you want in the array: 5
+Enter array elements:
+1
+0
+1
+1
+0
+Array Elements in Ascending Order: 0, 0, 1, 1, 1 */
