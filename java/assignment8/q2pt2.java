@@ -33,3 +33,17 @@ public class Question2pt2
 		System.out.println("The Array created is: "+Arrays.toString(myArray));
 	}
 }
+
+/* OUTPUT
+
+Enter the size of the array that is to be created: 
+5
+Enter the elements of the array: 
+2
+3
+0
+1
+0
+The Array created is: [2, 3, 0, 1, 0]
+Resultant array: 
+The Array created is: [0, 0, 2, 3, 1] */
