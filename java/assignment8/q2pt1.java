@@ -47,4 +47,3 @@ Enter the elements of the array:
 The Array created is: [12, 0, 2, 3, 0]
 Resultant array: 
 The Array created is: [12, 2, 3, 0, 0] */
-
